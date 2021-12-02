@@ -1,12 +1,13 @@
 
 body{
-    width: 25em;
-    margin-left: 25em; 
+    display: grid;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    background-color: hsl(225, 100%, 98%);
+    background-color:  hsl(225, 100%, 94%)
   }
   .card{
-    border-radius: 1.5em;
+    border-radius: 1.2em;
     margin-top: 5em;
   }
   .contain{
@@ -46,8 +47,8 @@ body{
   .can{
     margin: 1em;
   }
-  .attribution { font-size: 11px; text-align: center; margin-top: 5em ; margin-bottom: 3em;}
-  .attribution a { color: hsl(228, 45%, 44%); }
+  .footer { font-size: 11px; text-align: center; margin-top: 5em ; margin-bottom: 3em;}
+  .footer a { color: hsl(228, 45%, 44%); }
 
   
   @media (min-width: 375px){
@@ -61,3 +62,9 @@ body{
      width: 100%;
    }
  } 
+h1{
+  font-size: 28px;
+}
+h2{
+  font-size: 20px;
+}
