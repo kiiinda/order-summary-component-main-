@@ -21,8 +21,8 @@ Below is the screenshot to my design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/kiiinda/order-summary-component-main-.git)
+- Live Site URL:(https://61a918e827f3570008c6cfa3--order-summary-component-m.netlify.app/)
 
 ## My process
 
